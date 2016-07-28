@@ -16,4 +16,4 @@ git clone git@github.com:manminusone/concrete5-block-fortune.git /concrete-5-ins
 ## Usage
 After installing the block you can simply drag a Fortune from the "Other" section in the Blocks sidebar. Type in your series of lines and save. You're done!
 
-
+The random line will be wrapped in a ```<div>``` with the class name ```"text-fortune"``` so you can style the line in your custom CSS section of the Design settings. 
