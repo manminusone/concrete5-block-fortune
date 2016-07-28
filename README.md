@@ -9,7 +9,8 @@ This plugin gives you a basic HTML textarea to type in a series of lines. The pl
 * concrete5.7.4 or greater (uses the help functionality)
 
 ## Installation
-```git clone git@github.com:manminusone/concrete5-block-fortune.git /concrete-5-install-dir/application/blocks/fortune
+```
+git clone git@github.com:manminusone/concrete5-block-fortune.git /concrete-5-install-dir/application/blocks/fortune
 ```
 
 ## Usage
